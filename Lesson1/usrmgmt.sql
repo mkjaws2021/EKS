@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS usrmgmt:
+CREATE DATABASE usrmgmt ;
